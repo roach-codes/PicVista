@@ -394,8 +394,9 @@ function Profile() {
                     }}
                     alt={name}
                     src={avatar}
-                    className={`profile-pic-container ${storyTimestamp ? "story_available_border" : null
-                      }`}
+                    className={`profile-pic-container ${
+                      storyTimestamp ? "story_available_border" : null
+                    }`}
                   />
                 ) : (
                   <FaUserCircle className="profile-pic-container" />
