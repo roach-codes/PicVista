@@ -1,11 +1,11 @@
 <div id="top"></div>
 <div align="center">
 
-<img  src="src/assets/logo.png"  alt="Dummygram"  height="150">
+<img  src="src/assets/logo.png"  alt="PicVista"  height="150">
 
 [See Live!](https://narayan954.github.io/dummygram/)
 
-### _Instagram_, dummified
+### Unveiling Memories
 
 <div align="center">
       <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
@@ -26,7 +26,7 @@
 
 </div>
 
-<h1 align="center">About Dummygram</h1>
+<h1 align="center">About PicVista</h1>
 
 ## Vision
 
@@ -36,27 +36,27 @@ Creating an Instagram clone is a fantastic chance for learning and improvement. 
 
 ## Status
 
-Since September 2022, Dummygram has been a project that the team is passionate about and committed to making excellent. They put the project on GitHub from the beginning to work together with the community and welcome contributions from others.
+Since September 2022, PicVista has been a project that the team is passionate about and committed to making excellent. They put the project on GitHub from the beginning to work together with the community and welcome contributions from others.
 
-The team has clear priorities and ongoing work to improve Dummygram, but they also focus on making it look unique and attractive. They have a great sense of design and want the app to stand out from other similar apps. Using ReactJS, they can add custom styles and create a fun and exciting experience for users.
+The team has clear priorities and ongoing work to improve PicVista, but they also focus on making it look unique and attractive. They have a great sense of design and want the app to stand out from other similar apps. Using ReactJS, they can add custom styles and create a fun and exciting experience for users.
 
-Overall, the Dummygram team loves what they do and wants to make the app visually stunning and enjoyable for everyone!
+Overall, the PicVista team loves what they do and wants to make the app visually stunning and enjoyable for everyone!
 
 ## Features
 
-**User Authentication:** DummyGram includes a user authentication system, allowing users to create accounts, log in, and log out securely. This feature ensures that only authenticated users can access and interact with the app.
+**User Authentication:** PicVista includes a user authentication system, allowing users to create accounts, log in, and log out securely. This feature ensures that only authenticated users can access and interact with the app.
 
 **Posts:** Users can create posts and share them with others. Posts can include various types of content, such as images, videos, or text. Users can upload media files from their devices or provide URLs for online content. These posts are displayed in a feed-like format.
 
-**Commenting:** DummyGram enables users to comment on posts. Users can write and submit comments on individual posts, engaging in conversations and discussions with other users.
+**Commenting:** PicVista enables users to comment on posts. Users can write and submit comments on individual posts, engaging in conversations and discussions with other users.
 
-**Like Feature:** Users can express their appreciation for posts by liking them. This feature allows users to show their support and interest in specific content shared on DummyGram.
+**Like Feature:** Users can express their appreciation for posts by liking them. This feature allows users to show their support and interest in specific content shared on PicVista.
 
-**Delete Functionality:** DummyGram allows users to delete their own posts. This feature provides users with control over their content, enabling them to remove posts they no longer wish to keep on the platform.
+**Delete Functionality:** PicVista allows users to delete their own posts. This feature provides users with control over their content, enabling them to remove posts they no longer wish to keep on the platform.
 
-**Frontend Framework:** The user interface of DummyGram is built using ReactJS, a popular JavaScript library for building interactive user interfaces. ReactJS allows for efficient rendering of components and provides a smooth and responsive user experience.
+**Frontend Framework:** The user interface of PicVista is built using ReactJS, a popular JavaScript library for building interactive user interfaces. ReactJS allows for efficient rendering of components and provides a smooth and responsive user experience.
 
-**Backend and Data Storage:** DummyGram utilizes Firebase as the backend service for storing user data, posts, and comments. Firebase provides a scalable and reliable platform for handling backend functionalities and offers real-time database capabilities, ensuring efficient data storage and retrieval.
+**Backend and Data Storage:** PicVista utilizes Firebase as the backend service for storing user data, posts, and comments. Firebase provides a scalable and reliable platform for handling backend functionalities and offers real-time database capabilities, ensuring efficient data storage and retrieval.
 
 # Table of Contents
 
@@ -74,7 +74,7 @@ Overall, the Dummygram team loves what they do and wants to make the app visuall
     - [Start Testing](#start-testing)
     - [Create New Test Cases](#create-new-test-cases)
   - [How to get started with Open Source](#how-to-get-started-with-open-source)
-  - [How to use Dummygram](#how-to-use-dummygram)
+  - [How to use PicVista](#how-to-use-dummygram)
   - [Contributing](#contributing)
   - [Rules](#rules)
     - [Contributions and discussion guidelines](#contributions-and-discussion-guidelines)
@@ -120,7 +120,7 @@ dummygram/
 
 The first step to running dummygram locally is downloading the code by cloning the repository:
 
-<details><summary>Video Demo to run Dummygram in your local under 2 minutes</summary> <br>
+<details><summary>Video Demo to run PicVista in your local under 2 minutes</summary> <br>
 
 <https://github.com/narayan954/dummygram/assets/77617189/c21f0bdc-e845-4c32-b148-54d8048cbc33>
 
@@ -144,7 +144,7 @@ git clone https://github.com/narayan954/dummygram.git
 
 ### Installation
 
-Dummygram has a single installation step:
+PicVista has a single installation step:
 
 - **Install the dependencies**:
 
@@ -288,7 +288,7 @@ Now you know some basic terms, let's get into how to get started with some resou
 - [A complete Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE) - Video
 - [Guide to Open Source](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) - Article
 
-## How to use Dummygram
+## How to use PicVista
 
 [Flow of Control](FlowOfControl.md)
 
@@ -305,7 +305,7 @@ That being said, this codebase isn't your typical open source project because it
 
 ### Contributions and discussion guidelines
 
-🎊All conversations and communities on Dummygram agree to GitHub's [Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines) and [Acceptable Use Policies](https://help.github.com/en/github/site-policy/github-acceptable-use-policies).
+🎊All conversations and communities on PicVista agree to GitHub's [Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines) and [Acceptable Use Policies](https://help.github.com/en/github/site-policy/github-acceptable-use-policies).
 
 🎊Code of conduct is applied for all conversations that happen within the contributor community here on GitHub.
 
@@ -315,18 +315,18 @@ That being said, this codebase isn't your typical open source project because it
 
 ### Reporting a bug or discussing a feature idea
 
-If you found a technical bug on Dummygram or have ideas for features we should implement, the issue tracker is the best place to share your ideas. Make sure to follow the issue template and you should be golden! ([click here to open a new issue](https://github.com/narayan954/dummygram/issues/new))
+If you found a technical bug on PicVista or have ideas for features we should implement, the issue tracker is the best place to share your ideas. Make sure to follow the issue template and you should be golden! ([click here to open a new issue](https://github.com/narayan954/dummygram/issues/new))
 
 ### Fixing a bug or implementing a new feature
 
-- If you find a bug on Dummygram and open a PR that fixes it we'll review it as soon as possible to ensure it matches our engineering standards.
+- If you find a bug on PicVista and open a PR that fixes it we'll review it as soon as possible to ensure it matches our engineering standards.
 - If you want to implement a new feature, open an issue first to discuss what it'd look like .
 - If you want to contribute but are unsure to start, we have [a "good first issue" label](https://github.com/narayan954/dummygram/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) which is applied to newcomer-friendly issues. Take a look at [the full list of good first issues](https://github.com/narayan954/dummygram/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) and pick something you like!
 - Want to fix a bug or implement an agreed-upon feature? Great, jump to the [local setup instructions](#first-time-setup)!
 
 ## Code of Conduct
 
-Dummygram is now part of GitHub. For code of conduct, please see [GitHub's Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines) and [Acceptable Use Policies](https://help.github.com/en/github/site-policy/github-acceptable-use-policies).
+PicVista is now part of GitHub. For code of conduct, please see [GitHub's Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines) and [Acceptable Use Policies](https://help.github.com/en/github/site-policy/github-acceptable-use-policies).
 
 <div  align="center"><img  height="70px"  src="https://user-images.githubusercontent.com/77617189/192942891-31b9152c-918b-4fac-af05-0ad6b1f594aa.svg"  /></div>
 
